@@ -1,0 +1,22 @@
+# OrthogonalSan Francisco
+
+## One-Liner
+CA, USAAgentic Payments for APIs
+
+## Detailed Description
+OrthogonalSan Francisco is a Y Combinator Winter 2026 startup in the B2B sector. CA, USAAgentic Payments for APIs Based in OrthogonalSan Francisco, CA, USAAgentic. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+
+## Batch
+Winter 2026
+
+## Industry
+B2B
+
+## Tags
+Infrastructure
+
+## Indian Clone Potential
+High — India has massive fintech adoption (UPI, digital lending boom)
+
+---
+*Source: [Y Combinator](https://www.ycombinator.com/companies/orthogonal)*
