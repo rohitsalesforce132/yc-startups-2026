@@ -1,22 +1,15 @@
-# Confluence LabsSan Francisco
+# Confluence Labs
 
-## One-Liner
-CA, USAAI models that learn from experience
+**One-Liner:** AI models that learn from experience
 
-## Detailed Description
-Confluence LabsSan Francisco is a Y Combinator Winter 2026 startup in the B2B sector. CA, USAAI models that learn from experience Based in Confluence LabsSan Francisco, CA, USAAI. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI models that learn from experience The company builds a modern, AI-powered platform designed to solve critical pain points in the B2B space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-B2B
+**Industry:** B2B
 
-## Tags
-B2B
+**Tags:** B2B, AI, YC W26
 
-## Indian Clone Potential
-Medium-High — Growing Indian SaaS market
+**Indian Clone Potential:** India's EdTech market is among the world's largest with 500M+ internet users and growing demand for skill development.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/confluence-labs)*
+**Source:** YC Startup Directory

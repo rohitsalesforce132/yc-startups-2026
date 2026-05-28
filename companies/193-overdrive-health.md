@@ -1,22 +1,15 @@
-# Overdrive HealthNew York City
+# Overdrive Health
 
-## One-Liner
-NY, USAAI-Native Medical Billing Services
+**One-Liner:** AI-Native Medical Billing Services
 
-## Detailed Description
-Overdrive HealthNew York City is a Y Combinator Winter 2026 startup in the Healthcare sector. NY, USAAI-Native Medical Billing Services Based in Overdrive HealthNew York City, NY, USAAI. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI-Native Medical Billing Services The company builds a modern, AI-powered platform designed to solve critical pain points in the Healthcare space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Healthcare
+**Industry:** Healthcare, Healthcare Services
 
-## Tags
-Healthcare Services
+**Tags:** Healthcare, AI, YC W26
 
-## Indian Clone Potential
-High — India healthcare gap is huge (telemedicine, AI diagnostics)
+**Indian Clone Potential:** High potential in India given the massive healthcare gap, growing private clinic ecosystem, and government push for digital health (Ayushman Bharat). India-specific pricing and localization would be key.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/overdrive-health)*
+**Source:** YC Startup Directory

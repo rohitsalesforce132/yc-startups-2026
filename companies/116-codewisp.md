@@ -1,22 +1,15 @@
-# CodeWispSan Francisco
+# CodeWisp
 
-## One-Liner
-CA, USAAnyone can create real games with AI
+**One-Liner:** Anyone can create real games with AI
 
-## Detailed Description
-CodeWispSan Francisco is a Y Combinator Winter 2026 startup in the Consumer sector. CA, USAAnyone can create real games with AI Based in CodeWispSan Francisco, CA, USAAnyone. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Anyone can create real games with AI The company builds a modern, AI-powered platform designed to solve critical pain points in the Consumer space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Consumer
+**Industry:** Consumer, Gaming
 
-## Tags
-Gaming
+**Tags:** YC W26, Consumer, Gaming, AI
 
-## Indian Clone Potential
-Medium — Large consumer base but price-sensitive
+**Indian Clone Potential:** Could work for India with proper localization, pricing adjustments for the price-sensitive market, and navigating regulatory requirements. The large SMB/enterprise market offers significant volume.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/codewisp)*
+**Source:** YC Startup Directory

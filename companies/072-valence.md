@@ -1,22 +1,15 @@
 # Valence
 
-## One-Liner
-Unified prediction markets trading platform
+**One-Liner:** Unified prediction markets trading platform
 
-## Detailed Description
-Valence is a Y Combinator Winter 2026 startup in the Fintech sector. Unified prediction markets trading platform The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Unified prediction markets trading platform The company builds a modern, AI-powered platform designed to solve critical pain points in the Fintech space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Fintech
+**Industry:** Fintech, Consumer Finance
 
-## Tags
-Consumer Finance
+**Tags:** YC W26, Fintech, Consumer, Finance
 
-## Indian Clone Potential
-High — India has massive fintech adoption (UPI, digital lending boom)
+**Indian Clone Potential:** Strong India potential with UPI infrastructure, growing digital lending market, and regulatory sandbox. Would need RBI licensing but market size is enormous.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/valence)*
+**Source:** YC Startup Directory

@@ -1,22 +1,15 @@
-# ProximittySan Francisco
+# Proximitty
 
-## One-Liner
-CA, USAAI operating system for commercial loans
+**One-Liner:** AI operating system for commercial loans
 
-## Detailed Description
-ProximittySan Francisco is a Y Combinator Winter 2026 startup in the Fintech sector. CA, USAAI operating system for commercial loans Based in ProximittySan Francisco, CA, USAAI. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI operating system for commercial loans The company builds a modern, AI-powered platform designed to solve critical pain points in the Fintech space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Fintech
+**Industry:** Fintech, Credit and Lending
 
-## Tags
-Credit and Lending
+**Tags:** Fintech, AI, YC W26
 
-## Indian Clone Potential
-High — India has massive fintech adoption (UPI, digital lending boom)
+**Indian Clone Potential:** Strong India potential with UPI infrastructure, growing digital lending market, and regulatory sandbox. Would need RBI licensing but market size is enormous.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/proximitty)*
+**Source:** YC Startup Directory

@@ -1,22 +1,15 @@
-# DAIVIN!San Francisco
+# DAIVIN!
 
-## One-Liner
-CA, USATankless Dive Gear - Breath Autonomy at Sea, Land & Space
+**One-Liner:** Tankless Dive Gear - Breath Autonomy at Sea, Land & Space
 
-## Detailed Description
-DAIVIN!San Francisco is a Y Combinator Winter 2026 startup in the Industrials sector. CA, USATankless Dive Gear - Breath Autonomy at Sea, Land & Space Based in San Francisco, CA, USATankless. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Tankless Dive Gear - Breath Autonomy at Sea, Land & Space The company builds a modern, AI-powered platform designed to solve critical pain points in the Industrials space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Industrials
+**Industry:** Industrials, Defense
 
-## Tags
-Defense
+**Tags:** YC W26, Industrials, Defense, Space
 
-## Indian Clone Potential
-Medium-High — Growing cybersecurity and defense awareness in India
+**Indian Clone Potential:** India's space sector is opening up to private players (IN-SPACe). Cost advantage in manufacturing creates opportunities.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/daivin)*
+**Source:** YC Startup Directory

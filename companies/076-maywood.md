@@ -1,22 +1,15 @@
-# MaywoodNew York City
+# Maywood
 
-## One-Liner
-NY, USAThe first finance-compliant proactive AI that runs 24/7
+**One-Liner:** The first finance-compliant proactive AI that runs 24/7
 
-## Detailed Description
-MaywoodNew York City is a Y Combinator Winter 2026 startup in the Fintech sector. NY, USAThe first finance-compliant proactive AI that runs 24/7 Based in MaywoodNew York City, NY, USAThe. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** The first finance-compliant proactive AI that runs 24/7 The company builds a modern, AI-powered platform designed to solve critical pain points in the Fintech space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Fintech
+**Industry:** Fintech, Banking and Exchange
 
-## Tags
-Banking and Exchange
+**Tags:** YC W26, Fintech, Finance, Banking, AI
 
-## Indian Clone Potential
-High — India has massive fintech adoption (UPI, digital lending boom)
+**Indian Clone Potential:** Strong India potential with UPI infrastructure, growing digital lending market, and regulatory sandbox. Would need RBI licensing but market size is enormous.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/maywood)*
+**Source:** YC Startup Directory

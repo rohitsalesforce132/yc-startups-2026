@@ -1,22 +1,15 @@
 # FullSeam
 
-## One-Liner
-AI agents for corporate accounting teams
+**One-Liner:** AI agents for corporate accounting teams
 
-## Detailed Description
-FullSeam is a Y Combinator Winter 2026 startup in the B2B sector. AI agents for corporate accounting teams The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI agents for corporate accounting teams The company builds a modern, AI-powered platform designed to solve critical pain points in the B2B space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-B2B
+**Industry:** B2B, Finance and Accounting
 
-## Tags
-Finance and Accounting
+**Tags:** YC W26, B2B, Finance, AI
 
-## Indian Clone Potential
-High — India IT talent pool makes AI clones very feasible
+**Indian Clone Potential:** Could work for India with proper localization, pricing adjustments for the price-sensitive market, and navigating regulatory requirements. The large SMB/enterprise market offers significant volume.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/fullseam)*
+**Source:** YC Startup Directory

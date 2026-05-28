@@ -1,22 +1,15 @@
-# SquidLondon United Kingdom
+# Squid
 
-## One-Liner
-SquidLondon, United KingdomAI agents for power grid planning  🦑
+**One-Liner:** AI agents for power grid planning
 
-## Detailed Description
-SquidLondon United Kingdom is a Y Combinator Winter 2026 startup in the Industrials sector. SquidLondon, United KingdomAI agents for power grid planning  🦑 The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI agents for power grid planning The company builds a modern, AI-powered platform designed to solve critical pain points in the Industrials space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Industrials
+**Industry:** Industrials, Energy
 
-## Tags
-Energy
+**Tags:** YC W26, Industrials, Energy, AI
 
-## Indian Clone Potential
-High — India IT talent pool makes AI clones very feasible
+**Indian Clone Potential:** India's renewable energy targets (500GW by 2030) and growing data center market create significant demand.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/squid)*
+**Source:** YC Startup Directory

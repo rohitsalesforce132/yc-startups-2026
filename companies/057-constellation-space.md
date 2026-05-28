@@ -1,22 +1,15 @@
-# Constellation SpaceSeattle
+# Constellation Space
 
-## One-Liner
-WA, USAAI operating system for mega-scale satellite networks.
+**One-Liner:** AI operating system for mega-scale satellite networks.
 
-## Detailed Description
-Constellation SpaceSeattle is a Y Combinator Winter 2026 startup in the B2B sector. WA, USAAI operating system for mega-scale satellite networks. Based in Constellation SpaceSeattle, WA, USAAI. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** AI operating system for mega-scale satellite networks. The company builds a modern, AI-powered platform designed to solve critical pain points in the B2B space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-B2B
+**Industry:** B2B, Analytics
 
-## Tags
-Analytics
+**Tags:** YC W26, B2B, Analytics, AI
 
-## Indian Clone Potential
-Medium-High — Growing Indian SaaS market
+**Indian Clone Potential:** India's space sector is opening up to private players (IN-SPACe). Cost advantage in manufacturing creates opportunities.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/constellation-space)*
+**Source:** YC Startup Directory

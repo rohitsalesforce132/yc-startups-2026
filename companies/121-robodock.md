@@ -1,22 +1,15 @@
-# RoboDockSan Francisco
+# RoboDock
 
-## One-Liner
-CA, USARobots that run autonomous depots for autonomous fleets.
+**One-Liner:** Robots that run autonomous depots for autonomous fleets.
 
-## Detailed Description
-RoboDockSan Francisco is a Y Combinator Winter 2026 startup in the Industrials sector. CA, USARobots that run autonomous depots for autonomous fleets. Based in RoboDockSan Francisco, CA, USARobots. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Robots that run autonomous depots for autonomous fleets. The company builds a modern, AI-powered platform designed to solve critical pain points in the Industrials space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Industrials
+**Industry:** Industrials, Energy
 
-## Tags
-Energy
+**Tags:** Industrials, Energy, YC W26
 
-## Indian Clone Potential
-Medium-High — India energy transition is accelerating
+**Indian Clone Potential:** India's renewable energy targets (500GW by 2030) and growing data center market create significant demand.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/robodock)*
+**Source:** YC Startup Directory

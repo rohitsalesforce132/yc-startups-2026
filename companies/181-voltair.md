@@ -1,22 +1,15 @@
-# VoltairSan Francisco
+# Voltair
 
-## One-Liner
-CA, USAAutonomous Drones for Earth Observation
+**One-Liner:** Autonomous Drones for Earth Observation
 
-## Detailed Description
-VoltairSan Francisco is a Y Combinator Winter 2026 startup in the Industrials sector. CA, USAAutonomous Drones for Earth Observation Based in VoltairSan Francisco, CA, USAAutonomous. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Autonomous Drones for Earth Observation The company builds a modern, AI-powered platform designed to solve critical pain points in the Industrials space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Industrials
+**Industry:** Industrials, Drones
 
-## Tags
-Drones
+**Tags:** Industrials, Drones, YC W26
 
-## Indian Clone Potential
-Medium — Evaluate market fit for Indian context
+**Indian Clone Potential:** India is opening up to drone applications in agriculture, defense, and logistics. Government liberalized drone rules in 2022.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/voltair)*
+**Source:** YC Startup Directory

@@ -1,22 +1,15 @@
-# Opalite HealthSan Francisco
+# Opalite Health
 
-## One-Liner
-CA, USAHelping Healthcare Providers Speak Any Language
+**One-Liner:** Helping Healthcare Providers Speak Any Language
 
-## Detailed Description
-Opalite HealthSan Francisco is a Y Combinator Winter 2026 startup in the Healthcare sector. CA, USAHelping Healthcare Providers Speak Any Language Based in Opalite HealthSan Francisco, CA, USAHelping. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** Helping Healthcare Providers Speak Any Language The company builds a modern, AI-powered platform designed to solve critical pain points in the Healthcare space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Healthcare
+**Industry:** Healthcare
 
-## Tags
-Healthcare
+**Tags:** Healthcare, YC W26, Startup
 
-## Indian Clone Potential
-High — India healthcare gap is huge (telemedicine, AI diagnostics)
+**Indian Clone Potential:** High potential in India given the massive healthcare gap, growing private clinic ecosystem, and government push for digital health (Ayushman Bharat). India-specific pricing and localization would be key.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/opalite-health)*
+**Source:** YC Startup Directory

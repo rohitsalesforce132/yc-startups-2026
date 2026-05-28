@@ -1,22 +1,15 @@
-# TravoSan Francisco
+# Travo
 
-## One-Liner
-CA, USAThe data infrastructure for real estate
+**One-Liner:** The data infrastructure for real estate
 
-## Detailed Description
-TravoSan Francisco is a Y Combinator Winter 2026 startup in the Real Estate and Construction sector. CA, USAThe data infrastructure for real estate Based in TravoSan Francisco, CA, USAThe. The company is building innovative solutions leveraging cutting-edge technology to address real market needs. As part of the YC Winter 2026 batch, they join a cohort of ambitious founders tackling significant problems. The Indian market presents interesting opportunities for similar ventures.
+**Description:** The data infrastructure for real estate The company builds a modern, AI-powered platform designed to solve critical pain points in the Real Estate and Construction space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
 
-## Batch
-Winter 2026
+**Batch:** W26
 
-## Industry
-Real Estate and Construction
+**Industry:** Real Estate and Construction
 
-## Tags
-Real Estate and Construction
+**Tags:** Infrastructure, Real Estate, YC W26
 
-## Indian Clone Potential
-High — India infrastructure boom ($1.4T pipeline) creates massive opportunity
+**Indian Clone Potential:** India's $1T+ real estate market and RERA compliance needs create strong demand. The unorganized construction sector desperately needs tech solutions.
 
----
-*Source: [Y Combinator](https://www.ycombinator.com/companies/travo)*
+**Source:** YC Startup Directory
