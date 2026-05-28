@@ -2,14 +2,14 @@
 
 **One-Liner:** AI Platform for Precision Outbound
 
-**Description:** AI Platform for Precision Outbound The company builds a modern, AI-powered platform designed to solve critical pain points in the B2B space. Their technology focuses on automation, efficiency gains, and seamless integration with existing enterprise systems. By leveraging cutting-edge AI capabilities, they deliver measurable value to customers while reducing manual workflows. Backed by Y Combinator's W26 batch, the team combines deep domain expertise with strong technical capabilities to address real-world challenges at scale. The platform targets enterprise and mid-market customers who need modern solutions for legacy processes.
+**Description:** Cardinal is the AI platform for precision outbound sales. They run outbound campaigns for 40+ YC companies including Mintlify, Greptile, and Luminai. The problem they solve: "spray and pray" outbound is dead. Best sales teams operate with extreme precision — finding common ground with customers, monitoring their content, mapping inbound signals from signups and ads, tracking website visitors, and synthesizing multiple data sources. In practice, this requires stringing together 10+ tools and hiring full-time GTM engineers. Cardinal's AI agents can create workflows that normally require dedicated GTM engineers, automating the entire precision outbound process into one platform. Founded by Devi Jha (Harvard dropout, previous YC S23) and Jianna Liu (MIT CS grad, ex-Meta/DoorDash/Nvidia, also YC S23). The company reached $1M ARR run rate in ~2 months with ~$80k MRR and growing fast. Cardinal is hiring for 4 roles in engineering, design, and sales.
 
 **Batch:** W26
 
-**Industry:** B2B
+**Industry:** B2B SaaS / Sales Tech
 
-**Tags:** B2B, AI, YC W26
+**Tags:** AI Agents, Sales Automation, GTM, YC W26, Precision Outbound
 
-**Indian Clone Potential:** Could work for India with proper localization, pricing adjustments for the price-sensitive market, and navigating regulatory requirements. The large SMB/enterprise market offers significant volume.
+**Indian Clone Potential:** Strong potential. Indian SaaS companies need precision outbound for US/Europe markets, and local businesses could use similar AI-powered sales automation. Indian SMB market could benefit from GTM automation at lower price points.
 
-**Source:** YC Startup Directory
+**Source:** YC Startup Directory + YC Tier List + Work at a Startup
